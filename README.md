@@ -1,4 +1,4 @@
-Code and data used to reproduce the study: What and where manifolds emerge and align with perception in deep neural network models of sound localization.
+Code and data used to reproduce the study: **What and where manifolds emerge and align with perception in deep neural network models of sound localization**.
 
 We visualize audio embeddings and the low-dimensional structure of sound representations in models trained for sound localization.
 
